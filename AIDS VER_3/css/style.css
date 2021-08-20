@@ -282,12 +282,7 @@ margin: 0 auto;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%)
 }
-.ment-message  a:hover, a:focus, a:active {
-  text-decoration: none;
-  color: white;
-  transition: 0.3s;
-  font-size: 17px;
-}
+
 .ment-message a:hover{
   transition: 0.3s ease-out;
   color: rgb(216, 216, 216);
